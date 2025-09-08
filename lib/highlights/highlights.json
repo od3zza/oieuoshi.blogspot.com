@@ -12,6 +12,11 @@
         "highlight": "“At its core, vibe coding represents a fundamental shift in the developer-machine relationship. Rather than manually crafting every line yourself, you collaborate with AI that generates the actual code implementation. This extends beyond just writing functions—it encompasses the entire software creation life cycle, where AI becomes your partner in brainstorming architecture, researching solutions, implementing features, crafting tests, and hardening security.”",
         "color": "blue",
         "highlight_note": ""
+      },
+      {
+        "highlight": "Vibe coding fundamentally changes the relationship between developers and machines. Rather than manually crafting every line of code by hand, developers collaborate with AI to generate the actual code.",
+        "color": "yellow",
+        "highlight_note": ""
       }
     ]
   },
