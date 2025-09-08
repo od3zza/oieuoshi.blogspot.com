@@ -15,17 +15,17 @@
       {
         "highlight": "Self-expressive play is critical in persistent online worlds, where the player may have the same avatar character for years, and wants that avatar to reflect their own fantasy self, and to be able to change it as time goes on.",
         "color": "yellow",
-        "highlight_note": "Ernest coloca aqui o 'self-expressive play' como uma categoria de jogo onde o jogador pode expressar suas vontades e desejos dentro do jogo, seja construindo algo ou um próprio 'self'. RPGs tem um lugar especial aqui, pois o jogador pode criar um personagem que gostaria de ser, não apenas fisicamente, como também socialmente, sendo a máxima da expressão dentro do jogo."
+        "highlight_note": "Ernest coloca aqui o 'self-expressive play' como uma categoria de jogo onde o jogador pode expressar suas vontades e desejos dentro do jogo, seja construindo algo ou um próprio 'self'. RPGs têm um lugar especial aqui, pois o jogador pode criar um personagem que gostaria de ser, não apenas fisicamente, mas também socialmente, sendo a máxima da expressão dentro do jogo."
       },
       {
         "highlight": "This is any kind of creative play that lets the player use the game as a sandbox, largely without limitations. The player can do pretty much whatever she likes in the context the game offers. (If the game doesn't offer anything but freeform creative play, it's not really a game at all, but a toy or a tool.)",
         "color": "pink",
-        "highlight_note": "Adams coloca que 'freeform creative play' é qualquer tipo de 'creative play' que permite ao jogador agir sem grandes limitações, como em um sandbox. Isso é basicamente o que jogos como GTA San Andreas faz, e de certa forma, ao considerar 'without limitations' como a possibilidade de agir contra as premissas do jogo, também facilmente entraria The Witcher, Cyberpunk 2077, etc (?). É curioso como ele também cita que se um jogo oferece 'apenas' essa experiência, ele não é um jogo, mas um brinquedo ou ferramenta."
+        "highlight_note": "Adams coloca que 'freeform creative play' é qualquer tipo de 'creative play' que permite ao jogador agir sem grandes limitações, como em um sandbox. Ele também cita que se um jogo oferece 'apenas' essa experiência, ele não é um jogo, mas um brinquedo ou ferramenta."
       },
       {
-        "highlight": "Most construction and management simulations offer a form of constrained creativity - that is, creation is not purely freeform, but restricted by rules in some way. Sometimes they're economic rules: the player has to manage limited resources. In other cases they're physical rules: the player's constructions must make sense and must not fall down. ",
+        "highlight": "Most construction and management simulations offer a form of constrained creativity - that is, creation is not purely freeform, but restricted by rules in some way. Sometimes they're economic rules: the player has to manage limited resources. In other cases they're physical rules: the player's constructions must make sense and must not fall down.",
         "color": "yellow",
-        "highlight_note": ""
+        "highlight_note": "O autor aponta para as simulações de construção e gestão, onde a criatividade é 'limitada' por regras econômicas (gerenciamento de recursos) ou físicas (a construção deve fazer sentido e não pode desabar)."
       }
     ]
   },
@@ -52,7 +52,7 @@
     "date": "2025-07-30",
     "title": "Vibe Coding: The Revolutionary Approach Transforming Software Development",
     "url": "https://itrevolution.com/articles/vibe-coding-the-revolutionary-approach-transforming-software-development/",
-    "thumbnail": "https://itrevolution.b-cdn.net/wp-content/uploads/2025/05/Screenshot-2025-05-12-at-12.46.19 PM.png",
+    "thumbnail": "https://itrevolution.b-cdn.net/wp-content/uploads/2025/05/Screenshot-2025-05-12-at-12.46.19%E2%80%AFPM.png",
     "tags": [],
     "summary": "",
     "page_comment": "",
@@ -60,67 +60,62 @@
       {
         "highlight": "At its core, vibe coding represents a fundamental shift in the developer-machine relationship. Rather than manually crafting every line yourself, you collaborate with AI that generates the actual code implementation. This extends beyond just writing functions—it encompasses the entire software creation life cycle, where AI becomes your partner in brainstorming architecture, researching solutions, implementing features, crafting tests, and hardening security.",
         "color": "Blue",
-        "highlight_note": ""
+        "highlight_note": "Vibe coding é uma mudança na relação entre desenvolvedor e máquina, na qual a IA colabora na geração de código e em todo o ciclo de criação de software."
       },
       {
         "highlight": "Vibe coding fundamentally changes the relationship between developers and machines. Rather than manually crafting every line of code by hand, developers collaborate with AI to generate the actual code",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A vibe coding muda a relação entre desenvolvedores e máquinas, que passam a colaborar com a IA para a geração de código."
       },
       {
         "highlight": "“I just talk…I barely even touch the keyboard. I ask for the dumbest things like ‘decrease the padding on the sidebar by half’ because I’m too lazy to find it.”",
         "color": "Green",
-        "highlight_note": ""
+        "highlight_note": "O usuário mal precisa tocar no teclado, apenas fala o que quer que o código seja feito, como 'diminuir o padding da barra lateral pela metade', por pura preguiça de fazê-lo manualmente."
       },
       {
         "highlight": "Kim and Yegge explain that in vibe coding, you become “the orchestrator rather than the executor, directing rather than typing, allowing AI to shoulder the implementation burden while you focus on vision and verification.”",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Com a vibe coding, o desenvolvedor se torna o 'orquestrador' em vez do 'executor', focando na visão e verificação enquanto a IA lida com a implementação."
       },
       {
-        "highlight": "Kim and Yegge introduce what they call “the good FAAFO” (fast, ambitious, autonomous, fun, O\\optionality). ",
+        "highlight": "Kim and Yegge introduce what they call “the good FAAFO” (fast, ambitious, autonomous, fun, O\\optionality).",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Kim e Yegge introduzem o conceito de 'FAAFO' (fast, ambitious, autonomous, fun, optionality), uma filosofia para o desenvolvimento com IA."
       },
       {
         "highlight": "Fast: Vibe coding dramatically compresses development timelines, with tasks that once took months now completed in days or even hours.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Vibe coding comprime o tempo de desenvolvimento, transformando tarefas de meses em dias ou horas."
       },
       {
         "highlight": "Ambitious: The lowered implementation cost reshapes what developers consider possible. Projects previously deemed too complex or time-consuming become achievable",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O custo reduzido de implementação torna projetos complexos e demorados mais ambiciosos e viáveis."
       },
       {
         "highlight": "Autonomous: Vibe coding allows you to do work autonomously, often being able to complete things that previously required multiple people or teams",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O desenvolvimento com vibe coding se torna mais autônomo, permitindo a conclusão de tarefas que antes exigiam várias pessoas ou equipes."
       },
       {
         "highlight": "Fun: By automating tedious tasks like debugging syntax errors, wrestling with unfamiliar libraries, and writing boilerplate code, vibe coding restores the creative joy of programming that drew many to the field initially.",
         "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Fun: By automating tedious tasks like debugging syntax errors, wrestling with unfamiliar libraries, and writing boilerplate code",
-        "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Vibe coding automatiza tarefas tediosas, devolvendo a alegria criativa da programação."
       },
       {
         "highlight": "Optionality: Perhaps most transformative is the ability to explore multiple solutions simultaneously rather than committing to a single approach.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O aspecto de 'optionality' é a capacidade de explorar várias soluções simultaneamente em vez de se comprometer com uma única abordagem."
       },
       {
         "highlight": "even when the AI occasionally struggled, the human-AI partnership proved remarkably effective at overcoming obstacles that neither could have solved as efficiently alone.",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "A colaboração entre humanos e IA é eficaz na superação de obstáculos que não seriam resolvidos de forma tão eficiente por um ou outro isoladamente."
       },
       {
         "highlight": "vibe coding redefines the developer role from manual coder to strategic orchestrator",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A vibe coding redefine o papel do desenvolvedor de 'codificador manual' para 'orquestrador estratégico'."
       }
     ]
   },
@@ -136,12 +131,12 @@
       {
         "highlight": "One of the earliest known TikTok Live streamers to do NPC streams is @natuecoco, a Japanese TikToker. During her livestreams, she often acts like a video game NPC by lightly bouncing or performing what looks like an \"\"idle animation,\"\" only reacting when she's given a gift.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Natuecoco é um dos primeiros streamers a fazer lives de 'NPC Streaming', agindo como um NPC de videogame e reagindo apenas quando recebe presentes."
       },
       {
         "highlight": "NPC Streaming, also known as NPC Trend, is a type of TikTok LIVE stream in which the streamer acts or is perceived as acting like a video game NPC by mimicking idle animations, only saying something or performing a specific action when gifted, the action or phrase changing depending on the gift.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O 'NPC Streaming' é uma tendência no TikTok onde o streamer se comporta como um NPC de jogo, fazendo animações de 'idle' e reagindo com frases ou ações específicas a presentes, que determinam a resposta."
       }
     ]
   },
@@ -160,17 +155,17 @@
       {
         "highlight": "This article reflects on the resurgence of Full Motion Video (FMV) games, focusing on Her Story (2015), The Infectious Madness of Dr Dekker (2017), Telling Lies (2019), Contradiction (2015), and The Shapeshifting Detective (2018).",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O artigo discute o ressurgimento de jogos Full Motion Video (FMV), como Her Story e Telling Lies."
       },
       {
         "highlight": "They rely on the player's imagination in suturing the images together and in forming an empathetic understanding of the main characters’ actions and motivations. By virtue of this lack, FMV games challenges players’ analytical and hermeneutic abilities and further cognitive patience.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Jogos FMV desafiam a capacidade analítica e a paciência do jogador ao exigir que a imaginação do jogador una as imagens e entenda as motivações dos personagens."
       },
       {
         "highlight": "An absence of “rules of notice” by which the details in a narrative are hierarchically organized, including editing and other attention-guiding devices, is part of these games’ procedural rhetoric.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A ausência de 'regras de aviso' que organizam os detalhes da narrativa é parte da retórica procedural desses jogos."
       }
     ]
   },
@@ -190,17 +185,17 @@
       {
         "highlight": "Net Art Anthology aims to address the shortage of historical perspectives on a field in which even the most prominent artworks are often inaccessible.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A 'Net Art Anthology' foi criada para abordar a falta de perspectivas históricas em um campo onde muitas obras de arte digital são inacessíveis."
       },
       {
         "highlight": "presenting 100 exemplary works in a field characterized by broad participation, diverse practices, promiscuous collaboration, and rapidly shifting formal and aesthetic standards, sketching a possible net art canon.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O projeto apresenta 100 obras de destaque em um campo de participação ampla, práticas diversas e colaborações variadas, buscando esboçar um 'cânone' da net art."
       },
       {
         "highlight": "Net Art Anthology was launched in 2016 and completed in June 2019. Additional material related to Anthology works, as well as updated restorations may be added from time to time into the future.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A Net Art Anthology foi lançada em 2016 e concluída em junho de 2019, com a possibilidade de adições futuras de materiais e restaurações."
       }
     ]
   },
@@ -235,82 +230,77 @@
       {
         "highlight": "RTS games focus on a multi-nodal ecosystem of flows and factories, resources and expenditures, secure zones and hostile frontiers. The RTS genre is thus informatic capitalism pure and simple. The genre displays how informatic media and informatic labor are essentially coterminous in today’s world.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Galloway argumenta que jogos de Estratégia em Tempo Real (RTS) são uma representação pura do capitalismo informático, focado em ecossistemas de fluxos e recursos. Eles mostram como a mídia e o trabalho informático estão interligados no mundo atual."
       },
       {
         "highlight": "A somewhat nefarious miasma lingers in all of this, for the labor of the web surfer or the gamer or the blogger goes unpaid, even while exploited by other parties. Thus within the sphere of gaming, we are obligated to come to terms with a new kind of unpaid labor, a new kind of economy.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O autor destaca o problema do trabalho não pago do usuário da web, gamer ou blogueiro, que é explorado por outras partes. Isso levanta a questão de um novo tipo de 'economia' e trabalho não remunerado na esfera dos jogos."
       },
       {
         "highlight": "labor today is often simply donated as a “gift” to the economy. This will be the ultimate tragic denouement of the rise of gaming, of the democratization of play, of social media, of open-source software: it will result in the open-sourcing of all labor; the demand for “volunteer” workers will metastasize across all spheres of public life.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Galloway prevê que a 'democratização' do jogo, das mídias sociais e do software de código aberto resultará na 'abertura de todo o trabalho', com a demanda por 'trabalhadores voluntários' se espalhando por todas as esferas da vida pública."
       },
       {
         "highlight": "The Web is, in this sense, the world's largest sweat shop, for it is the site of most unpaid labor in the world today.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A web é vista como a 'maior oficina de trabalho escravo' do mundo, sendo o local da maioria do trabalho não pago atualmente."
       },
       {
         "highlight": "To formulate this same observation in psychoanalytic terminology: previous mass media formats -- cinema famously -- were fundamentally masochistic; new media however are fundamentally sadistic, in that they require the labor of manipulation, selection, transformation and command over objects (data objects, commodities, behaviors, life forms, and of course other human beings)",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Enquanto a mídia de massa anterior (como o cinema) era 'masoquista', a nova mídia é 'sadista', exigindo o trabalho de manipulação e controle do usuário sobre dados, comportamentos e até outros seres humanos."
       },
       {
         "highlight": "In this way, if previous media formats disciplined human beings into becoming better workers, today’s informatic media liberate human beings so they may become better bosses",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "A mídia informacional liberta os humanos para se tornarem 'chefes' em vez de apenas 'trabalhadores', como a mídia anterior."
       },
       {
         "highlight": "remember how Brain Age for the Nintendo DS was all the rage a few years ago. In years to come we will see a steady rise in games devoted to informatic therapy and training. This is but one harbinger of the coming gamic class being cultivated today.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O autor cita 'Brain Age' como um precursor de jogos futuros dedicados a 'terapia e treinamento informacional', indicando o surgimento de uma nova 'classe de jogos'."
       },
       {
         "highlight": "Hence a lament for the new informatic masters: we desperately need alternative algorithms; we desperately need counter-gaming. But, thus far, alternative algorithms seem hopelessly impossible, beyond the very horizon of intelligibility.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Galloway lamenta a falta de 'algoritmos alternativos' e de 'counter-gaming', que parecem impossíveis de serem formulados no contexto atual."
       },
       {
         "highlight": "These days play looks more like labor, and labor looks more like play.",
         "color": "Pink",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "We still need alternative algorithms, now more than ever. But what would such algorithms look like?",
-        "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O autor faz uma observação sobre a indistinção entre jogo e trabalho na sociedade atual."
       },
       {
         "highlight": "The alternative algorithms of countergaming are either structured as negation or as deprivation. With negation, the game is stripped of all possibilities of game play, left to lapse back to other media altogether (video, animation). With deprivation, the game is censored and scolded, allowed to continue to play, but only in an enlightened or “self-aware” mode.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Galloway define 'counter-gaming' como algo que se estrutura por 'negação' (removendo a possibilidade de jogabilidade, transformando o jogo em outro meio como vídeo) ou 'privação' (o jogo é censurado e 'iluminado')."
       },
       {
-        "highlight": " the very essence of what makes a game a game is withheld, deferred either for all time, or just for a moment.",
+        "highlight": "the very essence of what makes a game a game is withheld, deferred either for all time, or just for a moment.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A essência do que faz um jogo ser um jogo é retida ou adiada no 'counter-gaming'."
       },
       {
-        "highlight": " For one must never forget that there is an important utopian possibility contained within any type of aesthetic failure. Or as Jean-Jacques Rousseau wrote in his “Discourse on the Arts and Sciences” of 1750: failure has an infinity of forms, but the truth is singular.",
+        "highlight": "For one must never forget that there is an important utopian possibility contained within any type of aesthetic failure. Or as Jean-Jacques Rousseau wrote in his “Discourse on the Arts and Sciences” of 1750: failure has an infinity of forms, but the truth is singular.",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "O fracasso estético contém uma possibilidade utópica, citando Rousseau: 'o fracasso tem uma infinidade de formas, mas a verdade é singular'."
       },
       {
         "highlight": "Today we should take this as a celebration not a lament, and focus on the failure not the truth. Counter-gaming shall have an infinity of forms.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O autor sugere focar no fracasso como uma celebração, não uma lamentação, pois o 'counter-gaming' terá uma infinidade de formas."
       },
       {
         "highlight": "let's demilitarize play; let's uncouple gaming from the mandates of the market; let's dial up the game studies and dial down the game theory.",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "Galloway defende a 'desmilitarização' do jogo, desvinculando-o do mercado e valorizando os 'game studies' em detrimento da 'game theory'."
       },
       {
         "highlight": "Counter-gaming",
         "color": "Yellow",
-        "highlight_note": "Galloway apresenta o \"\"counter-gaming\"\" como uma proposta radical de substituir os jogos convencionais por formas experimentais de interação, que denunciam e rebelam contra as estruturas informáticas de dominação. Embora paradoxal, esse movimento aponta para uma \"\"utopia\"\" estética onde o jogo falha propositalmente, e nesse colapso, se revela uma nova forma de verdade."
+        "highlight_note": "Galloway apresenta o \"counter-gaming\" como uma proposta radical de substituir os jogos convencionais por formas experimentais de interação, que denunciam e se rebelam contra as estruturas informáticas de dominação. Embora paradoxal, esse movimento aponta para uma 'utopia' estética onde o jogo falha propositalmente, e nesse colapso, se revela uma nova forma de verdade."
       }
     ]
   },
@@ -326,32 +316,32 @@
       {
         "highlight": "Interactive cinema isn’t a game.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O autor argumenta que o 'cinema interativo' não é um jogo."
       },
       {
         "highlight": "I’m Your Man, the first mainstream interactive movie",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "I'm Your Man é citado como o primeiro filme interativo 'mainstream'."
       },
       {
-        "highlight": " “Whenever you get an opportunity to be involved in something new, you might as well be in on it,” he said. “Even if it goes the way of 3D glasses and Odorama.”",
+        "highlight": "“Whenever you get an opportunity to be involved in something new, you might as well be in on it,” he said. “Even if it goes the way of 3D glasses and Odorama.”",
         "color": "Green",
-        "highlight_note": ""
+        "highlight_note": "O autor cita uma frase de um dos envolvidos no filme interativo 'I'm Your Man', que defende que é importante se envolver em algo novo, mesmo que seja uma tendência passageira como óculos 3D."
       },
       {
         "highlight": "Following Ebert’s logic, if a movie is meant to act on its audience, then a game is the inverse: an invitation for the audience to act. Of course, within the confines of a “game” like Mr. Payback or I’m Your Man, that invitation is limited to predetermined decision points. But even in the more open sandbox of a modern video game, there are boundaries on action—in fact, those boundaries are what define the form",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "O autor, seguindo a lógica de Ebert, afirma que se um filme 'age' sobre o público, o jogo faz o contrário: convida o público a 'agir'. No entanto, mesmo em jogos de mundo aberto, as ações são limitadas por fronteiras, que, na verdade, definem o próprio formato."
       },
       {
         "highlight": "C. Thi Nguyen observes, all games have rules and obstacles, imposed to constrain player agency. And games are, he argues, the art of agency. “As stories let us record narratives,” Nguyen writes, “games let us record agencies,” encoding them into “artifactual vessels” that can be passed around and temporarily embodied by others",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "C. Thi Nguyen observa que jogos têm regras e obstáculos que limitam a agência do jogador. Ele argumenta que os jogos são a 'arte da agência', registrando-a em 'recipientes de artefato' que podem ser 'incorporados' por outros."
       },
       {
         "highlight": "I have the sense that Ebert’s curmudgeonly take was the right one: an interactive movie is not a movie. But it isn’t a game, either",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O autor concorda com a visão de Ebert de que um filme interativo não é um filme, mas também não é um jogo."
       }
     ]
   },
@@ -372,7 +362,7 @@
       {
         "highlight": "15 minute movie programmed onto a Mario Brothers cartridge.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O artista Cory Arcangel programou um filme de 15 minutos em um cartucho de Super Mario Bros."
       }
     ]
   },
@@ -392,12 +382,12 @@
       {
         "highlight": "Darkgame is a sensory deprivation computer game.  The game plays on physical manipulation of the player’s senses as the central focus of game strategy.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Darkgame é um jogo de privação sensorial que manipula os sentidos do jogador como foco central da estratégia do jogo."
       },
       {
         "highlight": "The gameplay is based upon the experience of communication and conflict under stress of sensory deprivation and sense isolation.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A jogabilidade é baseada na experiência de comunicação e conflito sob estresse causado pela privação e isolamento sensorial."
       }
     ]
   },
@@ -413,27 +403,22 @@
       {
         "highlight": "Jonas Blume’s The Good, the Bad, and the Rock (2023, above) and Transporter (2023) are video works that restage iconic cinematic moments through visual mimicry that foregrounds the absence of human performers.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Jonas Blume criou obras de vídeo ('The Good, the Bad, and the Rock' e 'Transporter') que recriam momentos icônicos do cinema, mas sem a presença de atores humanos."
       },
       {
         "highlight": "Both pieces replicate camera movement and editing patterns from their sources but remove and erase the protagonists who once anchored the action",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "As obras de Blume replicam movimentos de câmera e padrões de edição de suas fontes, mas removem e apagam os protagonistas."
       },
       {
         "highlight": "Reconstructing The Good, the Bad, and the Rock or Transporter inside a game engine would not dilute their meaning. It would extend their critical gesture and postmodern nature. Blume’s work interrogates the reconfiguration of visual landmarks the imaginary and the disintegration of cinematic reference. This approach is central to Blume’s wildly original practice, where past forms flicker without resolution, forever suspended in the logic of simulation.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Reconstruir essas obras em um motor de jogo estenderia seu gesto crítico e natureza pós-moderna, já que o trabalho de Blume investiga a reconfiguração de referências visuais e a desintegração de referências cinematográficas, deixando as formas passadas suspensas na lógica da simulação."
       },
       {
-        "highlight": "Possible exercise for Game Art courses  Exercise Title: Reenacting the remake: from index to code  ",
+        "highlight": "Possible exercise for Game Art courses  Exercise Title: Reenacting the remake: from index to code",
         "color": "Green",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "To recreate iconic film scenes by mimicking camera movement, editing rhythm, and environmental composition while excluding all human characters. Students will engage with machinima as a form of conceptual reenactment, examining how narrative memory and genre codes can be evoked through spatial and audiovisual logic alone.",
-        "color": "Green",
-        "highlight_note": ""
+        "highlight_note": "Sugestão de exercício para cursos de 'Game Art': recriar cenas de filmes icônicas através de 'machinima' (recriação no motor do jogo), imitando o movimento da câmera, ritmo de edição e composição do ambiente, mas excluindo todos os personagens humanos."
       }
     ]
   },
@@ -449,42 +434,42 @@
       {
         "highlight": "“The story of love that takes place in the online game World of Warcraft,” Juan explains, “is turned into the raw material to explain how players construct their own virtual bodies in the digital world and how their bodies are extended in digital form.” This extension is not symbolic or abstract; it is enacted through gestures of touching, embracing, and kissing, performed between avatars of different (fantasy) races.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A história de amor no 'World of Warcraft' é usada para explicar como os jogadores constroem e estendem seus corpos virtuais através de gestos de toque, abraço e beijo entre avatares."
       },
       {
         "highlight": "the screen does not merely separate player from character: it enables a traversal, a crossing, in which visuality and interaction generate the illusion, and perhaps the experience, of bodily connection.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A tela não é apenas uma separação entre jogador e personagem, mas um meio que permite uma travessia, onde a visualidade e a interação criam a ilusão ou experiência de conexão corporal."
       },
       {
         "highlight": "A fundamental question lies at the core of It Was Just a Virtual Kiss: how do we navigate the virtual-physical dichotomy in digital media? In this context, I would argue that digital touch has a form of materiality, but not in the conventional sense that we associate with physical touch. Instead, it emerges at the intersection of phenomenological, affective, and technological processes.",
         "color": "Green",
-        "highlight_note": ""
+        "highlight_note": "O toque digital tem uma forma de 'materialidade' que surge na intersecção de processos fenomenológicos, afetivos e tecnológicos, não se limitando ao toque físico convencional."
       },
       {
-        "highlight": "The avatar, then, is not a substitute for the body, but a “hybrid embodiment, in which the player’s corporeal dimension is digitally integrated into a different space and resonates with the movements and emotional states of their digital avatar.” ",
+        "highlight": "The avatar, then, is not a substitute for the body, but a “hybrid embodiment, in which the player’s corporeal dimension is digitally integrated into a different space and resonates with the movements and emotional states of their digital avatar.”",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O avatar é visto não como um substituto do corpo, mas como uma 'incorporação híbrida', onde a dimensão corporal do jogador se integra digitalmente ao espaço virtual e ressoa com os movimentos e estados emocionais do avatar."
       },
       {
         "highlight": "Juan conceptualises glitches not as technical errors to be corrected, but as aesthetic and conceptual tools for revealing the instability of this peculiar form of incarnation",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Glitchs são conceituados como ferramentas estéticas e conceituais, e não apenas erros técnicos, pois revelam a instabilidade da encarnação virtual."
       },
       {
-        "highlight": "Instead of presenting the avatar as a seamless extension of the self in McLuhanian terms, Juan exposes its composite nature, assembled from overlapping gestures, interface logics, and networked interactions. ",
+        "highlight": "Instead of presenting the avatar as a seamless extension of the self in McLuhanian terms, Juan exposes its composite nature, assembled from overlapping gestures, interface logics, and networked interactions.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O avatar não é uma 'extensão perfeita do eu', mas uma composição de gestos, lógicas de interface e interações em rede."
       },
       {
         "highlight": "Machinima absolutely has the potential to subvert the rigid gender binaries and normative identities embedded in gaming culture – structures that are reinforced by systemic oppression. At the same time, it remains haunted by the very logic of the systems it emerges from. However, the act of exposing these logics – through recycling, remixing, and recontextualizing game assets – is itself a form of resistance. Both within and beyond these systems, creators can reveal cracks and contradictions, opening up new spaces for alternative modes of representation and interaction. While we may never fully escape the influence of these structures, engaging with queerness – playing with, against, and through the rules of these systems – can generate new ways of being and imagining that challenge the status quo.",
         "color": "Blue",
-        "highlight_note": ""
+        "highlight_note": "Machinima tem o potencial de subverter binários de gênero e identidades normativas na cultura dos jogos, mas ainda é 'assombrado' pela lógica dos sistemas de onde emerge. Expor essas lógicas através do reuso e recontextualização de ativos de jogos é uma forma de resistência, abrindo espaços para representações e interações alternativas."
       },
       {
         "highlight": "he identifies romance not as an anomaly in a game of conquest, but as an infrastructural misuse: a form of resistance enacted through misaligned or creative use of combat mechanics.",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "O romance no jogo é visto não como uma anomalia, mas como um 'mau uso' da infraestrutura, uma forma de resistência através do uso criativo de mecânicas de combate."
       }
     ]
   },
@@ -505,37 +490,37 @@
       {
         "highlight": "the work questions how virtual economies and character design structure representations of gender, class and consumer desire.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A obra questiona como as economias virtuais e o design de personagens estruturam representações de gênero, classe e desejo de consumo."
       },
       {
         "highlight": "By reframing these visual conventions as a critical artistic gesture, the work positions itself in a space of contradiction: weaponising the language of upskirt voyeurism to expose the procedural choreography of desire and the politics of synthetic flesh.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A obra de Miranda usa a linguagem do voyeurismo de 'upskirt' para expor a coreografia procedural do desejo e a política da 'carne' sintética nos jogos."
       },
       {
         "highlight": "Underw[h]e(a)re também ressoa com a noção de imagem pobre de Hito Steyerl: imagens de baixo status que, como ela escreve, são constante e furiosamente \"\"carregadas, baixadas, compartilhadas, reformatadas e reeditadas\"\".",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A obra se conecta ao conceito de 'imagem pobre' de Hito Steyerl, que são imagens de baixo status que circulam incessantemente."
       },
       {
         "highlight": "Além disso, como demonstra a página do projeto , esse olhar forense evoca os primeiros arquivos de imagens pornográficas online, atuando como um contrabanco de dados que revela a homogeneidade processual de gênero nos mundos dos jogos contemporâneos. Assim como os arquivos de baixa resolução de Steyerl, os primeiros bancos de dados de pornografia amadora circulavam incessantemente, desvinculados de sua origem ou autoria.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O olhar 'forense' do projeto evoca os arquivos de pornografia online, revelando a homogeneidade de gênero nos jogos, assim como os arquivos de baixa resolução de Steyerl."
       },
       {
         "highlight": "A intervenção de Miranda cruza claramente com o conceito de olhar masculino de Laura Mulvey, demonstrando como o jogo fetichiza um tipo de corpo feminino estreito, mesmo em seus detalhes invisíveis.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A obra de Miranda se alinha ao conceito de 'olhar masculino' de Laura Mulvey, mostrando como os jogos fetichizam um tipo específico de corpo feminino."
       },
       {
-        "highlight": " Miranda destaca como a estética da mercadoria e o desejo se entrelaçam nos níveis mais granulares do design: as imagens servem ao olhar masculino, mas o enquadramento invasivo de Miranda drena essa intenção erótica, revelando apenas uma uniformidade poligonal.",
+        "highlight": "Miranda destaca como a estética da mercadoria e o desejo se entrelaçam nos níveis mais granulares do design: as imagens servem ao olhar masculino, mas o enquadramento invasivo de Miranda drena essa intenção erótica, revelando apenas uma uniformidade poligonal.",
         "color": "Blue",
-        "highlight_note": ""
+        "highlight_note": "A obra de Miranda expõe a relação entre a estética da mercadoria e o desejo no design de jogos, drenando a intenção erótica ao revelar a uniformidade poligonal dos corpos."
       },
       {
         "highlight": "Paradoxalmente, Underw[h]e(a)re sugere que a verdadeira ficção de Assassin's Creed: Unity não é sua grandiosa reconstrução histórica ou sua fidelidade arquitetônica ao \"\"real\"\", mas a fantasia de diferença que ele alega encenar. Ao expor essas intimidades repetitivas e superficialmente codificadas, Miranda demonstra que a construção de mundo mais consistente do jogo é, em última análise, um compromisso com a mesmice — um espetáculo uniforme de desejo disfarçado de variedade.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O projeto sugere que a 'ficção' em 'Assassin's Creed' não é a reconstrução histórica, mas a 'fantasia de diferença', revelando que a construção do mundo é, na verdade, um 'espetáculo uniforme de desejo disfarçado de variedade'."
       }
     ]
   },
@@ -551,57 +536,57 @@
       {
         "highlight": "Though formally dissimilar, both use video games not as entertainment or spectacle but to show how the political and the affective are routed through simulation’s infrastructural systems",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Os jogos de vídeo são usados para mostrar como o político e o afetivo se manifestam através dos sistemas de infraestrutura da simulação."
       },
       {
         "highlight": "Giath Taha’s Becoming a Ghost (2022), screened on VRAL between August 30 and September 12 2023, documents a virtual reunion between two brothers separated by war and exile. Set entirely within PlayerUnknown’s Battlegrounds (PUBG), the work resists violence, focusing instead on acts of wandering, care, and quiet resistance.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "'Becoming a Ghost' (2022) documenta um reencontro virtual entre dois irmãos separados pela guerra, usando o jogo 'PUBG' para focar em 'atos de resistência' pacíficos em vez de violência."
       },
       {
         "highlight": "Jonathan Millet’s Les fantômes (Ghost Trail, 2024) is a thriller centred on Hamid (Adam Bessa), a Syrian exile in Strasbourg, who uses a multiplayer war game to update members of an underground network about the whereabouts of an alleged former torturer now living under an assumed identity",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "'Les fantômes' (2024) é um filme sobre um exilado sírio que usa um jogo de guerra para rastrear um ex-torturador, transformando o jogo em uma infraestrutura para operações clandestinas."
       },
       {
         "highlight": "the video game in Fantômes functions as an infrastructure of concealment: a camouflaged protocol where violence is simulated and strategic operations are hidden in plain sight. Hamid and his cohort do not play for recreation; using assumed names, they track fugitives and share updates during multiplayer sessions. The interface—avatars, voice chat, and devastated environments—allows for identity checks and coordinated actions while maintaining plausible deniability",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "No filme 'Les fantômes', o jogo funciona como uma 'infraestrutura de ocultação', onde operações estratégicas são escondidas à vista, usando avatares e chat de voz para coordenação e negação plausível."
       },
       {
-        "highlight": " the game’s internal logic mirrors the asylum process: action must follow verification, and haste may unravel everything",
+        "highlight": "the game’s internal logic mirrors the asylum process: action must follow verification, and haste may unravel everything",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A lógica do jogo 'Les fantômes' espelha o processo de asilo: a ação só pode ocorrer após a verificação, e a pressa pode comprometer tudo."
       },
       {
         "highlight": "The procedural structure of the game substitutes for institutions and bureaucracy, while replicating their opacity and constraint. If the game appears as a high-intensity third-person shooter, the real stakes it obscures are calculated, protracted, and deeply consequential",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A estrutura procedural do jogo substitui as instituições e a burocracia, replicando sua opacidade e restrições. As 'apostas' reais do jogo são calculadas e de grande consequência."
       },
       {
-        "highlight": " Where Les fantômes prioritises verification and delay, Taha suspends those logics entirely",
+        "highlight": "Where Les fantômes prioritises verification and delay, Taha suspends those logics entirely",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Enquanto 'Les fantômes' foca na verificação e no atraso, Taha suspende completamente essas lógicas."
       },
       {
         "highlight": "Becoming a Ghost offers a starkly different use of the game architecture and interface",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "'Becoming a Ghost' oferece um uso totalmente diferente da arquitetura e interface do jogo."
       },
       {
         "highlight": "He does not aim to win or deceive, conquer or destroy, but to remain present with his brother",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O objetivo de Taha em 'Becoming a Ghost' não é vencer, mas 'permanecer presente' com seu irmão, transformando o jogo em um espaço de conexão."
       },
       {
         "highlight": "Becoming a Ghost suspends that logic, opting instead for ambient drift and affective openness through counter-gaming",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "'Becoming a Ghost' suspende a lógica do jogo e opta por uma 'derivação' afetiva e 'abertura' através do 'counter-gaming'."
       },
       {
         "highlight": "The so-called “magic circle” collapses here: rather than an insulated sphere of norms, outcomes and make-believe, the game functions as a real-time infrastructure for personal and collective manoeuvre",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O 'círculo mágico' dos jogos colapsa, e o jogo passa a funcionar como uma 'infraestrutura' para manobras pessoais e coletivas, em vez de ser uma esfera de normas e fantasia."
       }
     ]
   },
@@ -617,82 +602,82 @@
       {
         "highlight": "Separated for ten years due to the Syrian conflict, Taha and his brother reconnect in this digital warzone, which mirrors the real-life violence that forced Taha to flee Syria. Although the game involves players competing to be the last one standing, it paradoxically becomes a safe space for the brothers to discuss topics censored elsewhere. The work explores themes of presence and absence, reality and simulation, and how virtual spaces can offer temporary escape from harsh realities",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Separados por dez anos, Taha e seu irmão se reencontram em um jogo de guerra ('PUBG'), que, paradoxalmente, se torna um 'espaço seguro' para discutir temas censurados em outros lugares. A obra explora a relação entre presença e ausência, realidade e simulação."
       },
       {
         "highlight": "The relationship between video gaming and geopolitical issues is deeply intertwined and layered. Many games are set in real locations or engage with real geopolitical tensions, often as a form of soft power, cultural influence, or even propaganda",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A relação entre videogames e questões geopolíticas é profunda e complexa. Jogos podem ser ambientados em locais reais e abordar tensões geopolíticas, servindo como 'soft power', influência cultural ou propaganda."
       },
       {
         "highlight": "PUBG, its popularity in Syria can be attributed to two main factors. Firstly, the game’s graphics are relatively modest compared to the sound design, meaning that players don’t need high-end devices like the Xbox Series X or PlayStation 5 to participate – a typical mobile phone is sufficient. This accessibility is crucial",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A popularidade de 'PUBG' na Síria se deve à sua acessibilidade, já que o jogo não exige dispositivos de ponta, permitindo que a maioria das pessoas com um celular possa jogá-lo."
       },
       {
         "highlight": "PUBG’s popularity lies in the lived experiences of players. Many of them are profoundly affected by the geopolitical realities of the Middle East, including the oppressive conditions in Syria. For these players, PUBG offers an escape – a shift from a dystopian reality controlled by oppressors to a virtual space that, while similar, provides an alternative existence. It’s a way to momentarily leave behind the harsh realities of their surroundings",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A popularidade do jogo se baseia nas experiências dos jogadores afetados pelas realidades geopolíticas, oferecendo uma 'fuga' de uma realidade opressiva para uma existência virtual alternativa."
       },
       {
         "highlight": "This desire to escape is why so many players bring their backgrounds and political realities into the game",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A vontade de escapar é a razão pela qual muitos jogadores trazem suas realidades políticas e pessoais para dentro do jogo."
       },
       {
         "highlight": "virtual world becomes a place to process, and perhaps temporarily avoid, the oppressive situations they face daily",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O mundo virtual se torna um local para processar e, temporariamente, evitar as situações opressivas do dia a dia."
       },
       {
         "highlight": "From Heidegger’s perspective, being is not fully present in any single moment. It’s an interplay of presence and absence, involving both the past and the present",
         "color": "Blue",
-        "highlight_note": ""
+        "highlight_note": "Na perspectiva de Heidegger, o ser não está totalmente presente em um único momento; é um jogo de presença e ausência, que envolve passado e presente."
       },
       {
         "highlight": "Derrida, on the other hand, argues that presence is never fully attainable; it’s always deferred through a chain of signifiers, making his approach more linguistic",
         "color": "Blue",
-        "highlight_note": ""
+        "highlight_note": "Para Derrida, a presença nunca é totalmente alcançável, sendo sempre adiada por uma cadeia de significantes, o que torna sua abordagem mais linguística."
       },
       {
         "highlight": "Building on these ideas, being thrown into a war zone and being distracted by the manifestations of conflict allows authenticity to emerge",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O autor sugere que, ao ser jogado em uma zona de guerra virtual e ser distraído pelo conflito, a 'autenticidade' pode emergir."
       },
       {
-        "highlight": " I consciously chose not to fight or engage in what the game – or the platform – demanded of me. The authenticity of the other person, in this case, my brother, also surfaced in this context. He used to play the game almost daily, but when we met online after twelve years, the game transformed for him. It became less about playing and more about protecting his younger brother, who had annoyingly decided not to carry a weapon in a shooting game",
+        "highlight": "I consciously chose not to fight or engage in what the game – or the platform – demanded of me. The authenticity of the other person, in this case, my brother, also surfaced in this context. He used to play the game almost daily, but when we met online after twelve years, the game transformed for him. It became less about playing and more about protecting his younger brother, who had annoyingly decided not to carry a weapon in a shooting game",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O autor, em um ato de 'contra-jogo', escolhe não lutar, e a autenticidade de seu irmão emerge, que passa a protegê-lo em vez de jogar de forma competitiva, transformando o propósito do jogo."
       },
       {
         "highlight": "To tie this back to Heidegger, the moment was an interplay between presence and absence",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O momento de encontro entre os irmãos no jogo é visto como um 'jogo de presença e ausência', ligando a experiência à filosofia de Heidegger."
       },
       {
         "highlight": "I think it’s crucial to remember that video games, especially online ones, are essentially interactive systems. The designers set up the rules, defining the framework within which players can operate. This setup often limits the players' freedom, making them subject to the designers’ choices. In a way, this can resemble a form of authoritarian control. Players can interact with the game, but only within the confines of the system, leading to specific actions and predetermined outcomes",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Videogames, especialmente online, são sistemas interativos onde os designers definem as regras, limitando a liberdade dos jogadores e, em certa medida, exercendo uma forma de 'controle autoritário'."
       },
       {
         "highlight": "I completely agree with your observation that video games are promoted as open worlds – spaces of possibilities and freedom",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O autor concorda que os videogames são promovidos como 'mundos abertos' e 'espaços de liberdade'."
       },
       {
         "highlight": "The line between virtuality and reality is very thin, and I didn’t want to be trapped by the same mechanisms of control. So, my defense mechanism was to be a pacifist in the game, resisting what the game’s designers expected me to do.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O autor, para não ser 'aprisionado' pelos mesmos mecanismos de controle da realidade, escolhe ser um 'pacifista' no jogo, resistindo ao que os designers esperam dele."
       },
       {
         "highlight": "When players engage with video games, they seek an alternative virtual space, but they inevitably bring their real-life complexities with them",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Os jogadores buscam um espaço virtual alternativo, mas inevitavelmente trazem as complexidades da vida real para dentro do jogo."
       },
       {
         "highlight": "important aspect of gaming is its immersive experience. However, this immersion is temporary – it doesn’t last forever. That’s why escapism is not absolute or definitive; it’s transient and limited, often ending when players return to their real lives",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A imersão é um aspecto importante, mas é temporária, e o escapismo nos jogos é 'transitório e limitado', terminando quando os jogadores retornam à vida real."
       }
     ]
   },
@@ -708,17 +693,17 @@
       {
         "highlight": "O projeto deve ter até 12 páginas, incluindo capa e referências bibliográficas, com fonte Times New Roman, tamanho 12, espaçamento 1,5, margens 1,5 cm",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Requisitos de formatação para um projeto, incluindo limite de páginas e estilo de texto."
       },
       {
         "highlight": "documento comprobatório de previsão de conclusão do Mestrado, para candidato(a) ao Doutorado",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "É necessário um documento comprovando a previsão de conclusão do mestrado para se candidatar ao doutorado."
       },
       {
         "highlight": "comprovante de língua estrangeira moderna será solicitado pela secretaria do PPGCom em até 12 meses",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "A secretaria do PPGCom pedirá o comprovante de língua estrangeira moderna em até 12 meses."
       }
     ]
   },
@@ -734,72 +719,67 @@
       {
         "highlight": "These auteurs operate in the gray area separating cinema, animation, gaming, and performance art, contributing in their own way to blur the boundaries of each practice. I argued that this certain formal trend in contemporary machinima can be seen as an act of cultural resistance, a resistance to speed, frenzy, and acceleration.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Auteurs de 'slow machinima' atuam na área cinzenta entre cinema, animação, jogos e performance, desfocando as fronteiras. Essa tendência formal é vista como um ato de resistência cultural à velocidade e aceleração."
       },
       {
         "highlight": "Philip Solomon’s EMPIRE",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "Referência ao trabalho 'EMPIRE' de Philip Solomon."
       },
       {
-        "highlight": "Justin Remes’s (2015) definition “cinema of stasis”, which he uses to refer to those “films in which stasis—not motion—is the default.” ",
+        "highlight": "Justin Remes’s (2015) definition “cinema of stasis”, which he uses to refer to those “films in which stasis—not motion—is the default.”",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "O autor menciona a definição de 'cinema de estase' de Justin Remes, referindo-se a filmes onde a imobilidade é o padrão."
       },
       {
-        "highlight": "static films occupy a special place in film history as they lie at the intersection of several different genres and media, e.g. painting and photography",
+        "highlight": "static films occupy a special place in film history as they lie at the intersection of several different genres and media, e.g. painting and photography",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Filmes 'estáticos' ocupam um lugar especial na história do cinema, pois se situam na interseção de diferentes gêneros e mídias, como pintura e fotografia."
       },
       {
         "highlight": "“Static films offer radical challenges to conventional conceptions of cinema, since they are ostensibly motion pictures without motion.” He adds that “these films foreground stasis and consequently blur the lines between traditional visual art and motion pictures.”",
         "color": "Green",
-        "highlight_note": ""
+        "highlight_note": "Filmes 'estáticos' desafiam concepções convencionais de cinema, já que são 'filmes com movimento sem movimento'. Eles borram as linhas entre a arte visual tradicional e o cinema."
       },
       {
         "highlight": "these cinematic productions address Walter Benjamin’s observation about the screen vs. canvas dichotomy.",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "Essas produções cinematográficas abordam a observação de Walter Benjamin sobre a dicotomia entre 'tela' e 'tela de pintura' (cinema vs. canvas)."
       },
       {
         "highlight": "“The Work of Art in the Age of Its Technological Reproducibility\"\" (1936)",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "Referência à obra 'A Obra de Arte na Era de Sua Reprodutibilidade Técnica' (1936) de Walter Benjamin."
       },
       {
         "highlight": "“The painting invites the viewer to contemplation; before it, he can give himself up to his train of associations. Before a film image, he cannot do so. No sooner has he seen it than it has already changed. It cannot be fixed on.”",
         "color": "Green",
-        "highlight_note": ""
+        "highlight_note": "Citação de Walter Benjamin: a pintura convida à contemplação, enquanto a imagem de filme muda rapidamente, não podendo ser fixada."
       },
       {
-        "highlight": "Genevieve Yue (2012) wrote in Film Comment, “EMPIRE” [...] amounts to a full day, passing through rain, sunset, night, and, come the following afternoon, the return of stormy weather.. [...] Perched on a skyscraper ledge, in an elaborate choreography of avatar, camera, and encoded “cheats,” Solomon allows us to gaze, as Warhol did, at the building across the way: “Rotterdam Tower,” or what is more recognizable as the Empire State Building.\"\"",
+        "highlight": "Genevieve Yue (2012) wrote in Film Comment, “EMPIRE” [...] amounts to a full day, passing through rain, sunset, night, and, come the following afternoon, the return of stormy weather.. [...] Perched on a skyscraper ledge, in an elaborate choreography of avatar, camera, and encoded “cheats,” Solomon allows us to gaze, as Warhol did, at the building across the way: “Rotterdam Tower,” or what is more recognizable as the Empire State Building.\"\"",
         "color": "Green",
-        "highlight_note": ""
+        "highlight_note": "Genevieve Yue descreve 'EMPIRE' de Solomon como um filme que documenta a passagem de um dia inteiro, com o avatar do jogador observando um edifício, de forma semelhante ao filme de Andy Warhol."
       },
       {
-        "highlight": "“EMPIRE” [...] amounts to a full day, passing through rain, sunset, night, and, come the following afternoon, the return of stormy weather.. [...] Perched on a skyscraper ledge, in an elaborate choreography of avatar, camera, and encoded “cheats,” Solomon allows us to gaze, as Warhol did, at the building across the way: “Rotterdam Tower,” or what is more recognizable as the Empire State Building.\"\"",
-        "color": "Green",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Remes argues that Warhol’s main goal in filming Empire was “to see time go by.” ",
+        "highlight": "Remes argues that Warhol’s main goal in filming Empire was “to see time go by.”",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Remes argumenta que o objetivo principal de Warhol ao filmar 'Empire' era 'ver o tempo passar'."
       },
       {
-        "highlight": "In his monograph on Andrei Tarkovsky's 1979 sci-fi film Stalker, Zona: A Book about a Film about a Journey to a Room, Geoff Dyer (2012), observes that \"\"every second [of Antonioni’s L’avventura] lasted a minute, every minute lasted an hour\"\".",
+        "highlight": "In his monograph on Andrei Tarkovsky's 1979 sci-fi film Stalker, Zona: A Book about a Film about a Journey to a Room, Geoff Dyer (2012), observes that \"\"every second [of Antonioni’s L’avventura] lasted a minute, every minute lasted an hour\"\".",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Geoff Dyer, em sua obra sobre o filme 'Stalker', observa que 'cada segundo [de 'L'avventura' de Antonioni] durava um minuto, cada minuto durava uma hora'."
       },
       {
         "highlight": "The real subject of Solomon's film is not \"\"action\"\", but time. As Remes explains, “The spectator of a film like [Warhol’s] Empire witnesses movement: not the movement of the building on the screen but the movement of time itself.”",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O tema de 'EMPIRE' não é a ação, mas o tempo. O espectador testemunha o movimento do próprio tempo, não do edifício na tela."
       },
       {
         "highlight": "By foregrounding stasis, films like Empire actually make the spectator more aware of the movement of time and consciousness, neither of which can be apprehended in the same way when one is absorbed in the movement of a cinematic image.",
         "color": "Green",
-        "highlight_note": ""
+        "highlight_note": "Ao destacar a estase, filmes como 'Empire' tornam o espectador mais consciente do 'movimento do tempo e da consciência'."
       }
     ]
   },
@@ -815,1657 +795,54 @@
       {
         "highlight": "“I’ve always liked to watch people play video games. Or to watch video games as cinema. So when you start watching video games as cinema and you start considering them cinema… It becomes so unlike anything you’ve seen in cinema that it’s kinda interesting.” (Cory Arcangel, 2011)",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Cory Arcangel comenta que assistir videogames como se fossem cinema é interessante porque a experiência é diferente de tudo que já se viu no cinema."
       },
       {
-        "highlight": "In his “State of Cinema” address at the 46th San Francisco Film Festival, French critic Michel Ciment (2003) described the emergence of a new cinematic style, “a cinema of slowness, of contemplation”. One year later, British critic Jonathan Romney coined the now popular expression “Slow Cinema” in a review to indicate those films that deliberately reject the narrative and aesthetic conventions of mainstream productions (1)",
+        "highlight": "In his “State of Cinema” address at the 46th San Francisco Film Festival, French critic Michel Ciment (2003) described the emergence of a new cinematic style, “a cinema of slowness, of contemplation”. One year later, British critic Jonathan Romney coined the now popular expression “Slow Cinema” in a review to indicate those films that deliberately reject the narrative and aesthetic conventions of mainstream productions (1)",
         "color": "Green",
-        "highlight_note": ""
+        "highlight_note": "O crítico francês Michel Ciment descreveu um novo estilo de cinema, o 'cinema da lentidão', enquanto o crítico britânico Jonathan Romney cunhou a expressão 'Slow Cinema', referindo-se a filmes que rejeitam convenções narrativas e estéticas tradicionais."
       },
       {
         "highlight": "Slow cinema emphasizes long takes and extended durations. Observational in nature, it uses subdued visual techniques and minimal narrative strategies.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "'Slow cinema' é caracterizado por tomadas longas, durações estendidas, técnicas visuais discretas e estratégias narrativas mínimas."
       },
       {
         "highlight": "Ira Jaffe (2014) writes in Slow Movies: Countering the Cinema of Action",
         "color": "Pink",
-        "highlight_note": ""
+        "highlight_note": "Referência à obra 'Slow Movies: Countering the Cinema of Action' de Ira Jaffe."
       },
       {
         "highlight": "“The plot and dialogue in slow movies often gravitate towards stillness and death, and tend, in any case, to be minimal, indeterminate and unresolved” (p. 23)",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Em 'slow movies', o enredo e o diálogo são frequentemente mínimos, gravitando em direção à quietude e à morte."
       },
       {
         "highlight": "David Campany (2007) slow films began as an avant-garde practice (consider, for instance, the Situationists) and represented a counterpoint to the “mass distraction” of advertising, television, and popular culture",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "O 'slow cinema' começou como uma prática de vanguarda, sendo um contraponto à 'distração em massa' da publicidade e da cultura popular."
       },
       {
         "highlight": "Lav Diaz, Pedro Costa, Lisandro Alonso, Ben Rivers, Carlos Reygadas, Bela Tarr, Apichatpong Weerasethakul, Tsai Ming-liang, Kelly Reichardt",
         "color": "Blue",
-        "highlight_note": ""
+        "highlight_note": "Lista de diretores notáveis associados ao 'slow cinema'."
       },
       {
         "highlight": "Justin Remes (2015) has called “cinema of stasis”",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "Justin Remes chamou o estilo de 'cinema de estase'."
       },
       {
         "highlight": "“slow machinima” is an international effort, fiercely independent, and deliberately adversarial to the dominant paradigm. Slow machinima productions are generally indifferent or deliberately antagonistic to mainstream game audiences, and perhaps, to mainstream audiences in general.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "'Slow machinima' é um movimento independente e deliberadamente adversário ao paradigma dominante, indiferente ou antagônico ao público de jogos mainstream."
       },
       {
         "highlight": "In many ways, slow machinima is a gesture of coordinated resistance to contemporary game culture and its testosterone-driven aesthetics, hype cycles, and overt misogyny.",
         "color": "Yellow",
-        "highlight_note": ""
+        "highlight_note": "'Slow machinima' é um gesto de resistência à cultura de jogos contemporânea, que se opõe à sua estética, ciclos de hype e misoginia."
       },
       {
         "highlight": "In its rejection of gaming instant gratification, slow machinima chronicles the spaces and times of inactivity and “in-betweenness” of mainstream productions, those sparse moments of tranquility of otherwise fast and furious “triple AAA titles” or “franchises”",
         "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If most video games can be situated in the accelerationist paradigm - itself a manifestation of capitalism’ obsession for growth, speed, and grotesque excess - slow machinima invokes a more reflective, attentive, and introspective viewing experience",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Lutz Koepnick (2014) writes in On Slowness: Toward an Aesthetic of the Contemporary",
-        "color": "Pink",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Our attention spans shrink toward zero because we have to make too many decisions within ever shorter windows of time. Cell phones, handheld computers, and ubiquitous screening devices urge us to be always on and produce instantaneous responses, yet we no longer take the time to contemplate an image, develop a profound thought, traverse a gorgeous landscape, play a game, or follow the intensity of some emotion. (p. 12)",
-        "color": "Green",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Slow machinima can be seen as alternative to a constant flow of interruptions, inane updates, and juvenile distractions. In terms of presentation, distribution, and circulation, slow machinima diverge from fandom productions insofar as they are not usually distributed",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "prefers projection rooms to smartphone screens, art galleries’ video installation to laptops.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "REFERENCES Arcangel, Cory. \"\"Super Slow Tetris\"\", Cory Arcangel, 2004. URL: http://www.coryarcangel.com/things-i-made/2004-003-super-slow-tetris (Last accessed: April 11, 2016) Arcangel, Cory. \"\"Cory Arcangel: Pro Tools: Various Self Playing Bowling Games, 2011\"\", Whitney Museum of American Art. Uploaded on Aug 9, 2011. URL: tinyurl.com/zda5gbk (Last accessed: April 11, 2016) Campany, David. The Cinematic (Whitechapel: Documents of Contemporary Art), Cambridge, Massachusetts: MIT Press, 2007. Ciment, Michel. “Michel Ciment. The State of Cinema”, Unspoken Cinema, 2003. URL: http://unspokencinema.blogspot.it/2006/10/state-of-cinema-m-ciment.html (Last accessed: April 14, 2016). Jaffe, Ira. Slow Movies: Countering the Cinema of Action, London: Wallflower Press, 2014. Koepnick, Lutz, On Slowness: Toward an Aesthetic of the Contemporary, New York: Columbia University Press, 2014. Remes, Justin. Motion(less) Pictures: The Cinema of Stasis, New York: Columbia University Press, 2015.",
-        "color": "Pink",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-07-06",
-    "title": "The Tight 90",
-    "url": "https://aaronsrpgs.tumblr.com/post/786737656203706368/the-tight-90",
-    "thumbnail": "https://64.media.tumblr.com/52c9331e7fd5d951ca6b1faf62c3850c/1d4b60778ea19f21-7f/s1280x1920/4d3101fca26df0d1bfc4d94cb327e0182852848b.jpg",
-    "tags": [
-      "TTRPG"
-    ],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "HOW RUN SHORT GAMES?",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "THE TIGHT 90 is a 90-minute RPG session. It riffs on the perfect length/density of a movie, and I think it’s a term I learned/stole from will jobst.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Designing Windows 95’s User Interface",
-    "url": "https://socket3.wordpress.com/2018/02/03/designing-windows-95s-user-interface",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Three years ago I came across an interesting paper written up by a Microsoft employee, Kent Sullivan, on the process and findings of designing the new user interface for Windows 95. The web page ha…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Three years ago I came across an interesting paper written up by a Microsoft employee, Kent Sullivan, on the process and findings of designing the new user interface for Windows 95. The web page ha…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Three years ago I came across an interesting paper written up by a Microsoft employee, Kent Sullivan, on the process and findings of designing the new user interface for Windows 95. The web page ha…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Three years ago I came across an interesting paper written up by a Microsoft employee, Kent Sullivan, on the process and findings of designing the new user interface for Windows 95. The web page ha…",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Why Are We Building Glasp?",
-    "url": "https://read.glasp.co/p/why-im-building-glasp",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Imagine a world where every highlight, insight, and lesson is passed on—where knowledge compounds across generations. This is why we started Glasp.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "As Leis Da Gestalt Aplicadas Ao Design De Interfaces",
-    "url": "https://brasil.uxdesign.cc/as-leis-da-gestalt-aplicadas-ao-design-de-interfaces-efc480dc06ec",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Se você já está familiarizado com a Gestalt e suas leis, deve ter notado o quanto essa teoria é constantemente utilizada na criação de interfaces. Se ainda não conhece, mas está acostumado a lidar…",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Inspirações Da Small Web",
-    "url": "https://porce-lana.blogspot.com/2025/02/inspiracoes-da-small-web.html",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Esses dias, andando pelo tiktok, me deparei com um vídeo sobre digital garden ... Esse termo, que há tempos não ouvia falar e que foi o que ...",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Esses dias, andando pelo tiktok, me deparei com um vídeo sobre digital garden ... Esse termo, que há tempos não ouvia falar e que foi o que ...",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Thinking in Maps: From the Lascaux Caves to Knowledge Graphs",
-    "url": "https://nesslabs.com/thinking-in-maps",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Humans have been thinking in maps since the first symbolic communication systems. While it may first bring cartography to mind, a map isn't always geographic.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Of Note: Better Text Annotations for the Web | Viget",
-    "url": "https://www.viget.com/articles/of-note-better-text-annotations-for-the-web",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "We’re accustomed to annotation patterns that discourage focused reading. FiveThirtyEight shows us a better way. Here’s why and how.",
-        "color": "Yellow",
-        "highlight_note": "Referência irada do comportamento de anotações dentro do texto."
-      },
-      {
-        "highlight": "We’re accustomed to annotation patterns that discourage focused reading. FiveThirtyEight shows us a better way. Here’s why and how.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "We’re accustomed to annotation patterns that discourage focused reading. FiveThirtyEight shows us a better way. Here’s why and how.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "We’re accustomed to annotation patterns that discourage focused reading. FiveThirtyEight shows us a better way. Here’s why and how.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "We’re accustomed to annotation patterns that discourage focused reading. FiveThirtyEight shows us a better way. Here’s why and how.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "We’re accustomed to annotation patterns that discourage focused reading. FiveThirtyEight shows us a better way. Here’s why and how.",
-        "color": "Yellow",
-        "highlight_note": "Publicação sobre o design de notas dentro de textos na web."
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Web World as Water: Digital Ecosystems That Give Life — Kening Zhu",
-    "url": "https://keningzhu.com/journal/web-world-as-water",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "a system for integrating creation and sharing your work",
-        "color": "Yellow",
-        "highlight_note": "Post sobre ecossistemas digitais semelhantes a jardins, vale a pena conferir para entender essa dinâmica de produtividade e interação."
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Paracinema — Genre Ward",
-    "url": "https://genreward.com/blog/paracinema",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Learned a new word yesterday, though I’m surprised I hadn’t come across it before. I was on Reddit and someone posted a three-year-old  video from Vox  about  The Room , the 2003 cult film made by Tommy Wiseau that has played in theaters as a midnight movie to ironic audiences for many years.  The R",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Web Design Museum - Discover Old Websites, Apps and Software",
-    "url": "https://www.webdesignmuseum.org",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Web Design Museum exhibits thousands of websites that chronicle forgotten trends in web design from its beginnings in the 1990s to the mid-00s.",
-        "color": "Yellow",
-        "highlight_note": "Site com print de páginas antigas e muitas desativadas."
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Creativity in a Nutshell - Interalia Magazine",
-    "url": "https://www.interaliamag.org/articles/margaret-boden-creativity-in-a-nutshell",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "\"\"Human creativity is something of a mystery, not to say a paradox. One new idea may be creative, while another is merely new. What's the difference? And how is creativity possible? Creative ideas are unpredictable. Sometimes, they even seem to be impossible -- and yet they happen. How can that be explained? Could a scientific psychology help us to understand how creativity is possible?\"\"  When 'The Creative Mind: Myths and Mechanisms' was first published, Margaret A. Boden's bold and provocative exploration of creativity broke new ground. In this book she uses examples such as jazz improvisation, chess, story writing, physics, and the music of Mozart, together with computing models from the field of artificial intelligence to uncover the nature of human creativity in the arts.   This article formed the introduction to the book and is republished for the Interalia Magazine with the kind permission of Margaret A. Boden.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "\"\"Human creativity is something of a mystery, not to say a paradox. One new idea may be creative, while another is merely new. What's the difference? And how is creativity possible? Creative ideas are unpredictable. Sometimes, they even seem to be impossible -- and yet they happen. How can that be explained? Could a scientific psychology help us to understand how creativity is possible?\"\"  When 'The Creative Mind: Myths and Mechanisms' was first published, Margaret A. Boden's bold and provocative exploration of creativity broke new ground. In this book she uses examples such as jazz improvisation, chess, story writing, physics, and the music of Mozart, together with computing models from the field of artificial intelligence to uncover the nature of human creativity in the arts.   This article formed the introduction to the book and is republished for the Interalia Magazine with the kind permission of Margaret A. Boden.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Transcendence of a Productivity Addict — Kening Zhu",
-    "url": "https://keningzhu.com/journal/transcendence-of-a-productivity-addict",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "a story of my evolving relationship to productivity",
-        "color": "Yellow",
-        "highlight_note": "Podcast sobre vício em produtividade."
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "What Type of Experimentalist Are You?",
-    "url": "https://nesslabs.com/experimentalist",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "At the heart of personal experimentation are four distinct phases that work together to create meaningful change. They all work together, but every experimentalist tends to have one phase that feels like a more natural starting point.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "At the heart of personal experimentation are four distinct phases that work together to create meaningful change. They all work together, but every experimentalist tends to have one phase that feels like a more natural starting point.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "At the heart of personal experimentation are four distinct phases that work together to create meaningful change. They all work together, but every experimentalist tends to have one phase that feels like a more natural starting point.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "At the heart of personal experimentation are four distinct phases that work together to create meaningful change. They all work together, but every experimentalist tends to have one phase that feels like a more natural starting point.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "At the heart of personal experimentation are four distinct phases that work together to create meaningful change. They all work together, but every experimentalist tends to have one phase that feels like a more natural starting point.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "At the heart of personal experimentation are four distinct phases that work together to create meaningful change. They all work together, but every experimentalist tends to have one phase that feels like a more natural starting point.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "At the heart of personal experimentation are four distinct phases that work together to create meaningful change. They all work together, but every experimentalist tends to have one phase that feels like a more natural starting point.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "At the heart of personal experimentation are four distinct phases that work together to create meaningful change. They all work together, but every experimentalist tends to have one phase that feels like a more natural starting point.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "At the heart of personal experimentation are four distinct phases that work together to create meaningful change. They all work together, but every experimentalist tends to have one phase that feels like a more natural starting point.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "At the heart of personal experimentation are four distinct phases that work together to create meaningful change. They all work together, but every experimentalist tends to have one phase that feels like a more natural starting point.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "At the heart of personal experimentation are four distinct phases that work together to create meaningful change. They all work together, but every experimentalist tends to have one phase that feels like a more natural starting point.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Human Curiosity in the Age of AI",
-    "url": "https://read.glasp.co/p/human-curiosity-in-the-age-of-ai",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Glasp’s Note: Today, we’re excited to welcome neuroscientist Anne-Laure Le Cunff for this guest post.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Glasp’s Note: Today, we’re excited to welcome neuroscientist Anne-Laure Le Cunff for this guest post.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Glasp’s Note: Today, we’re excited to welcome neuroscientist Anne-Laure Le Cunff for this guest post.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Glasp’s Note: Today, we’re excited to welcome neuroscientist Anne-Laure Le Cunff for this guest post.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Glasp’s Note: Today, we’re excited to welcome neuroscientist Anne-Laure Le Cunff for this guest post.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Glasp’s Note: Today, we’re excited to welcome neuroscientist Anne-Laure Le Cunff for this guest post.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Pig (2022) 🐽",
-    "url": "https://curtaclube.substack.com/p/pig-2022",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Tal como a vida é.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Tal como a vida é.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "You’re Trying to Do Too Much - Scott H Young",
-    "url": "https://www.scotthyoung.com/blog/2024/06/18/doing-too-much",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Everything added to your schedule necessitates subtracting something else. A truth we ignore at our peril.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Everything added to your schedule necessitates subtracting something else. A truth we ignore at our peril.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Everything added to your schedule necessitates subtracting something else. A truth we ignore at our peril.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Everything added to your schedule necessitates subtracting something else. A truth we ignore at our peril.",
-        "color": "Yellow",
-        "highlight_note": "Quero escrever sobre isso em algum momento, quando você está vendo duas coisas, em que ponto está sua atenção?"
-      },
-      {
-        "highlight": "Everything added to your schedule necessitates subtracting something else. A truth we ignore at our peril.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "The Future of the Internet Is Likely Smaller Communities, With a Focus on Curated Experiences",
-    "url": "https://www.theverge.com/press-room/617654/internet-community-future-research",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "The Verge partnered with Vox Media’s Insights and Research team to better understand how American consumers are embracing a shift in online communities.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Video Game Music Downloads - Free MP3 OST Downloads - Game Soundtracks for Download",
-    "url": "https://downloads.khinsider.com",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Video Game Music MP3 & lossless downloads",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "What if Every Failure Is Just an “Accidental Experiment?” - Jason Feifer",
-    "url": "https://www.jasonfeifer.com/accidental-experiment",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Welcome to One Thing Better. Each week, the editor in chief of Entrepreneur magazine (that’s me) shares one way to achieve a breakthrough at work — and build a career or company you love. Today’s edition is sponsored by Vanta — the all-in-one trust management platform. Details at the end of the newsletter. When things go wrong, here’s […]",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Welcome to One Thing Better. Each week, the editor in chief of Entrepreneur magazine (that’s me) shares one way to achieve a breakthrough at work — and build a career or company you love. Today’s edition is sponsored by Vanta — the all-in-one trust management platform. Details at the end of the newsletter. When things go wrong, here’s […]",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Welcome to One Thing Better. Each week, the editor in chief of Entrepreneur magazine (that’s me) shares one way to achieve a breakthrough at work — and build a career or company you love. Today’s edition is sponsored by Vanta — the all-in-one trust management platform. Details at the end of the newsletter. When things go wrong, here’s […]",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Welcome to One Thing Better. Each week, the editor in chief of Entrepreneur magazine (that’s me) shares one way to achieve a breakthrough at work — and build a career or company you love. Today’s edition is sponsored by Vanta — the all-in-one trust management platform. Details at the end of the newsletter. When things go wrong, here’s […]",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Welcome to One Thing Better. Each week, the editor in chief of Entrepreneur magazine (that’s me) shares one way to achieve a breakthrough at work — and build a career or company you love. Today’s edition is sponsored by Vanta — the all-in-one trust management platform. Details at the end of the newsletter. When things go wrong, here’s […]",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Welcome to One Thing Better. Each week, the editor in chief of Entrepreneur magazine (that’s me) shares one way to achieve a breakthrough at work — and build a career or company you love. Today’s edition is sponsored by Vanta — the all-in-one trust management platform. Details at the end of the newsletter. When things go wrong, here’s […]",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Welcome to One Thing Better. Each week, the editor in chief of Entrepreneur magazine (that’s me) shares one way to achieve a breakthrough at work — and build a career or company you love. Today’s edition is sponsored by Vanta — the all-in-one trust management platform. Details at the end of the newsletter. When things go wrong, here’s […]",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "A Síndrome De Frankenstein: Medos E Desafios - MIT Technology Review",
-    "url": "https://mittechreview.com.br/sindrome-frankenstein-ia",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A síndrome de Frankenstein reflete o medo de que a IA escape ao controle humano. Os desafios de uma tecnologia cada vez mais integrada.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "How to Improve Your Creative Thinking",
-    "url": "https://every.to/superorganizers/understanding-the-science-of-creativity",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "The science of creativity—and how to unlock it",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "The science of creativity—and how to unlock it",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "The science of creativity—and how to unlock it",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "The science of creativity—and how to unlock it",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "The science of creativity—and how to unlock it",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "The science of creativity—and how to unlock it",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "The science of creativity—and how to unlock it",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "The science of creativity—and how to unlock it",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "The science of creativity—and how to unlock it",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "The science of creativity—and how to unlock it",
-        "color": "Yellow",
-        "highlight_note": "Primeiro, o pensamento divergente se relaciona com a memória, associação e combinação de diversas informações de maneiras novas para gerar ideias criativas; então, o pensamento convergente \"\"[...] leva em conta as metas e as restrições para garantir que uma determinada ideia seja útil\"\"."
-      },
-      {
-        "highlight": "The science of creativity—and how to unlock it",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "The science of creativity—and how to unlock it",
-        "color": "Yellow",
-        "highlight_note": "\"\"[...] produzir um artefato ou uma ideia que seja ao mesmo tempo NOVA e ÚTIL [...]\"\""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Keeping Tabs on Your Tabs | Why You Need a Tab Day",
-    "url": "https://read.glasp.co/p/keeping-tabs-on-your-tabs-why-you?isFreemail=true&post_id=160045417&publication_id=397295&r=4k0exr&triedRedirect=true",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": "É muito interessante ver como essa coleção de recortes mostram como nós buscamos atividades simples e mecânicas para aliviar o estresse do overthinking. Byung-Chul Han fala sobre o tédio ser necessário, mas também a prática munda é uma maneira de atingir o tédio, pois através dessas atividades, nós alcançamos um nível de relaxamento e suspensão de um certo tipo de 'modo de pensar'."
-      },
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": "\"\"O que a [Internet] parece estar fazendo é reduzir minha capacidade de concentração e contemplação. Quer eu esteja on-line ou não, minha mente agora espera receber informações da maneira como a [Internet] as distribui: em um fluxo rápido de partículas. Antes eu era um mergulhador no mar de palavras. Agora, deslizo pela superfície como um cara em um Jet Ski.\"\""
-      },
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Or: How I Learned to Stop Worrying and Love Closing Tabs",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Ori Designer Explined Why Players Are Tired of Open Worlds",
-    "url": "https://80.lv/articles/ori-designer-explined-why-players-are-tired-of-open-worlds",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "People appreciate the good level design procedural generation can't provide.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "People appreciate the good level design procedural generation can't provide.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "People appreciate the good level design procedural generation can't provide.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "People appreciate the good level design procedural generation can't provide.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "People appreciate the good level design procedural generation can't provide.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Efficiency Is the Enemy",
-    "url": "https://fs.blog/slack",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "If you ever find yourself stressed, overwhelmed, sinking into stasis despite wanting to change, or frustrated when you can’t respond to new opportunities, you need more slack in your life. Here’s how slack works and why you need more of it.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "What Are Cozy Games, and What Makes Them Cozy?",
-    "url": "https://www.gamesindustry.biz/what-makes-a-cozy-game-cozy",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Cozy games are nothing new, but their recent flourishing – and the increased desire of developers to broaden the genre …",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Cozy games are nothing new, but their recent flourishing – and the increased desire of developers to broaden the genre …",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Cozy games are nothing new, but their recent flourishing – and the increased desire of developers to broaden the genre …",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Cozy games are nothing new, but their recent flourishing – and the increased desire of developers to broaden the genre …",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Cozy games are nothing new, but their recent flourishing – and the increased desire of developers to broaden the genre …",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Cozy games are nothing new, but their recent flourishing – and the increased desire of developers to broaden the genre …",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Cozy games are nothing new, but their recent flourishing – and the increased desire of developers to broaden the genre …",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "The Truth in Games",
-    "url": "https://thereader.mitpress.mit.edu/the-truth-in-games",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": "Nos jogos existe essa coexistência das duas intenções: racional e bela, que tensionam e exprimem uma unicidade no jogo e na sua experiência, que é ao mesmo tempo resolutiva e emocional. Assim, há a subjetiva, sensível e emocional; e a objetiva, baseada em fatos, regras e sistemas."
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": "Esse trecho se refere a um texto onde quem diz que a \"\"beleza é a verdade, e a verdade é a beleza\"\" é a urna, a obra de arte. O que é preciso saber sobre a vida está aí, mas não é tão direto ou objetivo. A arte faz isso, diz verdades profundas, mas sem argumentos ou lógica, mas através da beleza, proporcionando emoções como solidão, amor, etc."
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": "Aqui dá pra refletir sobre a flor ter se desenvolvido—aspectos como padrões, formas e cores—transcendendo sua própria existência e função, que é atrair os animais. A simetria, repetição com variação, contraste e outras características, são belos em si, independente de quem os observa nas flores. Isso seria uma beleza objetiva, embutida na própria estrutura do mundo, e reconhecemos por sermos parte desse mesmo universo. Se fosse apenas subjetiva, ela iria depender de gosto, cultura e contexto."
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": "Pensar nisso e também na relação com jogos, já que está falando sobre jogos, é curioso. Quando lembro de The Last of Us, por exemplo, há esse lado da lógica pela qual o jogo opera, mas também a emoção que não possui uma lógica, como tentar sistematizar a decisão de Joel no hospital com Ellie. É algo que se sente, não tem uma fórmula matemática que explique. Aquilo acontece e você sente, e esse sentimento é a verdade. Há também a contemplação, por mais que não totalmente livre para o jogador, mas em momentos onde você não faz \"\"nada produtivo\"\". Por exemplo, você não consegue explorar o mundo aberto, mas pode parar e apenas ouvir a Ellie contar piadas ou observas as girafas atravessando a cidade devastada. Não são momentos úteis ou lógicos, mas são essenciais pois nos fazem sentir. Essa é a beleza do jogo, sua verdade subjetiva. Essas pausas te riam da ação linear e te fazem respirar, sentir, pensar. São \"\"estranhas\"\", mas profundamente reais."
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": "As obras de artes não explicam racionalmente, mas te fazem sentir coisas (solidão, amor, dor, etc), mesmo sem racionalidade, sem dados e explicações. Você sente. A arte também não muda com o tempo como a vida, ela permanece, como uma ponte pra uma emoção, momento ou verdade subjetiva, isso torna ela \"\"estranha\"\", pois ela não faz parte do fluxo normal da vida, mas de algo transcendente."
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": "Os jogos, apesar de serem formas estéticas como a pintura, a poesia e mesmo a música, possuem \"\"verdades objetivas internas\"\", por isso são únicos. No jogo você vence ou perde com base em regras claras e existem sistemas lógicos e estruturas mecânicas que podem ser analisadas, testas e aprimoradas. Por mais que o jogo seja uma obra de arte, está mais próximo da racionalidade por possuir mecânicas objetivamente verificáveis, científicas."
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Veteran game designer and writer Frank Lantz reflects on the power of video games to capture and express sublime truths.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "The Time Hack Everyone Should Know",
-    "url": "https://thereader.mitpress.mit.edu/the-time-hack-everyone-should-know",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Much like Dorothy discovers at the end of “The Wizard of Oz,” the key to hacking time is a tool we’ve had all along: Choice.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Much like Dorothy discovers at the end of “The Wizard of Oz,” the key to hacking time is a tool we’ve had all along: Choice.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Much like Dorothy discovers at the end of “The Wizard of Oz,” the key to hacking time is a tool we’ve had all along: Choice.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Much like Dorothy discovers at the end of “The Wizard of Oz,” the key to hacking time is a tool we’ve had all along: Choice.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Much like Dorothy discovers at the end of “The Wizard of Oz,” the key to hacking time is a tool we’ve had all along: Choice.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Much like Dorothy discovers at the end of “The Wizard of Oz,” the key to hacking time is a tool we’ve had all along: Choice.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Much like Dorothy discovers at the end of “The Wizard of Oz,” the key to hacking time is a tool we’ve had all along: Choice.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Wim Wenders on Where the War in Europe Really Ended 80 Years Ago",
-    "url": "https://www.nytimes.com/2025/05/05/movies/wim-wenders-the-keys-to-freedom.html",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "In a short film and in conversation, the German filmmaker ponders the meaning of freedom, the complacency of peace and the new insecurity from Russia’s war and Donald Trump.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "In a short film and in conversation, the German filmmaker ponders the meaning of freedom, the complacency of peace and the new insecurity from Russia’s war and Donald Trump.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Invigorating Freshness",
-    "url": "https://shortverse.beehiiv.com/p/invigorating-freshness?_bhlid=bfdc378ac3ea0997a78008bb5734dca04bd9f523",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "We cast an eye at a massive trove of CalArts student films, and share new learning resources for up-and-coming filmmakers.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "We cast an eye at a massive trove of CalArts student films, and share new learning resources for up-and-coming filmmakers.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "A Arte Em Jogo",
-    "url": "https://pt.ign.com/behind-media/9231/opinion/a-arte-em-jogo",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "A Atitude Estética nos Videojogos.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Os Games Enquanto Jornadas Fenomenológicas: A Experiência Estética Semiótica Nos Jogos Digitais",
-    "url": "https://www.academia.edu/47749831/Os_games_enquanto_jornadas_fenomenol%C3%B3gicas_a_experi%C3%AAncia_est%C3%A9tica_semi%C3%B3tica_nos_jogos_digitais",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Esta pesquisa visa explorar como os games poderiam ser capazes de proporcionar àquele que os experimenta uma vivência com características significativas. Até que ponto qualidades como a contemplação, o acaso extático, a mudança de hábitos e o",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Net Art: A Arte Feita Para a Internet - Arte Que Acontece",
-    "url": "https://artequeacontece.com.br/net-art-a-arte-feita-para-a-internet",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Arte feita para ser consumida pela internet é arte? A resposta é sim! E existe até um termo para isso, é a net art. E não é de hoje que…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Arte feita para ser consumida pela internet é arte? A resposta é sim! E existe até um termo para isso, é a net art. E não é de hoje que…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Arte feita para ser consumida pela internet é arte? A resposta é sim! E existe até um termo para isso, é a net art. E não é de hoje que…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Arte feita para ser consumida pela internet é arte? A resposta é sim! E existe até um termo para isso, é a net art. E não é de hoje que…",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "O Crash Dos Videogames De 1983 - Bojogá",
-    "url": "https://bojoga.com.br/artigos/dossie-retro/o-crash-dos-videogames-de-1983",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "O Crash dos videogames de 1983 é conhecido como um dos mais importantes eventos da história dos jogos eletrônicos. Causado principalmente pela irresponsabilidade das empresas produtoras de jogos dos Estados Unidos, abriu oportunidades para empresas do globo se posicionarem no mercado e construírem novos impérios. O que muita gente não sabe é que existiram diversos fatores pregressos a esse evento…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "O Crash dos videogames de 1983 é conhecido como um dos mais importantes eventos da história dos jogos eletrônicos. Causado principalmente pela irresponsabilidade das empresas produtoras de jogos dos Estados Unidos, abriu oportunidades para empresas do globo se posicionarem no mercado e construírem novos impérios. O que muita gente não sabe é que existiram diversos fatores pregressos a esse evento…",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Enter the Meadow",
-    "url": "https://clairelevans.substack.com/p/enter-the-meadow?isFreemail=true&post_id=163696781&publication_id=263070&r=4k0exr&triedRedirect=true",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Modeling complex horizons, the mind of a worm; quite a bit of personal news.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Modeling complex horizons, the mind of a worm; quite a bit of personal news.",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Modeling complex horizons, the mind of a worm; quite a bit of personal news.",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "The Addiction Economy",
-    "url": "https://every.to/napkin-math/the-addiction-economy-7590d4c0-19c6-4eab-9653-e7a961b6aeb9",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Addicted, overwhelmed, oversubscribed: How technology hooked the world",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Addicted, overwhelmed, oversubscribed: How technology hooked the world",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Addicted, overwhelmed, oversubscribed: How technology hooked the world",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Cyberpunk 2077: A Gorgeous Exaggeration of an Existential Crisis",
-    "url": "https://medium.com/@miggsgalbo/cyberpunk-2077-a-gorgeous-exaggeration-of-an-existential-crisis-3f2164ec9d99",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Video Games are a medium often used as escapism, to live vicariously through others or live out a life they wish they had. But what if it was more than just that? What if it made you question your…",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-06-30",
-    "title": "Interpretation of V’s Mikoshi Poem Pt1: Life Is Murder",
-    "url": "https://fresh-prince-of-denmark.tumblr.com/post/642167686496976896/interpretation-of-vs-mikoshi-poem-pt1-life-is",
-    "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": [],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "Cyberpunk spoilers ahead:  Let’s talk about Cyberpunk’s literary references and what they mean for the story, coming from a former English professor/teacher.  Alt will read you one of two poems you...",
-        "color": "Yellow",
-        "highlight_note": ""
-      },
-      {
-        "highlight": "Cyberpunk spoilers ahead:  Let’s talk about Cyberpunk’s literary references and what they mean for the story, coming from a former English professor/teacher.  Alt will read you one of two poems you...",
-        "color": "Yellow",
-        "highlight_note": ""
-      }
-    ]
-  }
-][
-  {
-    "date": "2025-08-09",
-    "title": "The Designer's Notebook: A Few Remarks on Creative Play",
-    "url": "https://www.gamedeveloper.com/design/the-designer-s-notebook-a-few-remarks-on-creative-play",
-    "thumbnail": "",
-    "tags": [
-      "game design",
-      "creative play",
-      "taxonomy"
-    ],
-    "summary": "",
-    "page_comment": "Uma lista rudimentar que Ernest criou para tentar 'classificar' alguns tipos de 'creative play' como experiência de jogo. Ele cita primeiro que considera o 'creative play' como algo que permite que o jogador em algum momento diga algo como \"olhe, eu fiz (criei) isso\".",
-    "highlights": [
-      {
-        "highlight": "Self-expressive play is critical in persistent online worlds, where the player may have the same avatar character for years, and wants that avatar to reflect their own fantasy self, and to be able to change it as time goes on.",
-        "color": "yellow",
-        "highlight_note": "Ernest coloca aqui o 'self-expressive play' como uma categoria de jogo onde o jogador pode expressar suas vontades e desejos dentro do jogo, seja construindo algo ou um próprio 'self'. RPGs tem um lugar especial aqui, pois o jogador pode criar um personagem que gostaria de ser, não apenas fisicamente, como também socialmente, sendo a máxima da expressão dentro do jogo."
-      },
-      {
-        "highlight": "This is any kind of creative play that lets the player use the game as a sandbox, largely without limitations. The player can do pretty much whatever she likes in the context the game offers. (If the game doesn't offer anything but freeform creative play, it's not really a game at all, but a toy or a tool.)",
-        "color": "pink",
-        "highlight_note": "Adams coloca que 'freeform creative play' é qualquer tipo de 'creative play' que permite ao jogador agir sem grandes limitações, como em um sandbox. Isso é basicamente o que jogos como GTA San Andreas faz, e de certa forma, ao considerar 'without limitations' como a possibilidade de agir contra as premissas do jogo, também facilmente entraria The Witcher, Cyberpunk 2077, etc (?). É curioso como ele também cita que se um jogo oferece 'apenas' essa experiência, ele não é um jogo, mas um brinquedo ou ferramenta."
-      },
-      {
-        "highlight": "Most construction and management simulations offer a form of constrained creativity - that is, creation is not purely freeform, but restricted by rules in some way. Sometimes they're economic rules: the player has to manage limited resources. In other cases they're physical rules: the player's constructions must make sense and must not fall down. ",
-        "color": "yellow",
-        "highlight_note": ""
-      }
-    ]
-  },
-  {
-    "date": "2025-08-09",
-    "title": "GDC 2005: Iwata Keynote Transcript - IGN",
-    "url": "https://www.ign.com/articles/2005/03/11/gdc-2005-iwata-keynote-transcript?page=3",
-    "thumbnail": "",
-    "tags": [
-      "non-game",
-      "game design"
-    ],
-    "summary": "",
-    "page_comment": "",
-    "highlights": [
-      {
-        "highlight": "it is one of those non-game games I mentioned; a form of entertainment that really doesn't have a winner, or even a real conclusion. And because of its unrestrained pace of action",
-        "color": "pink",
-        "highlight_note": "Iwata está falando do Animal Crossing que seria lançado para Nintendo DS com conexão Wi-Fi. Ele se refere ao jogo como 'non-game' ou 'não-jogo' atribuindo características de um estilo de jogo onde não há um vencedor ou uma real conclusão. Ele também comenta sobre o 'ritmo' de ação do jogo (o 'pace') não possuir restrições, algo como o mundo aberto."
-      }
-    ]
-  }
-]
+        "highlight_note": "Ao rejeitar a gratificação instantânea dos jogos, 'slow machinima' documenta os espaços e tempos de inatividade e 'ent
