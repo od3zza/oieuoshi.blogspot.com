@@ -32,6 +32,11 @@
         "highlight": "Kim and Yegge introduce what they call “the good FAAFO” (fast, ambitious, autonomous, fun, O\\optionality).",
         "color": "yellow",
         "highlight_note": ""
+      },
+      {
+        "highlight": "Fast: Vibe coding dramatically compresses development timelines, with tasks that once took months now completed in days or even hours.",
+        "color": "yellow",
+        "highlight_note": ""
       }
     ]
   },
