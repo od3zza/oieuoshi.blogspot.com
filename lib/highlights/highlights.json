@@ -27,6 +27,11 @@
         "highlight": "Kim and Yegge explain that in vibe coding, you become “the orchestrator rather than the executor, directing rather than typing, allowing AI to shoulder the implementation burden while you focus on vision and verification.”",
         "color": "yellow",
         "highlight_note": ""
+      },
+      {
+        "highlight": "Kim and Yegge introduce what they call “the good FAAFO” (fast, ambitious, autonomous, fun, O\\optionality).",
+        "color": "yellow",
+        "highlight_note": ""
       }
     ]
   },
