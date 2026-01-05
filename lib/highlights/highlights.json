@@ -1259,7 +1259,9 @@
     "date": "2025-06-30",
     "title": "The Truth in Games",
     "thumbnail": "https://glasp.co/images/ogps/thumbnail_empty.jpeg",
-    "tags": ["game design"],
+    "tags": [
+      "game design"
+    ],
     "summary": "",
     "page_comment": "",
     "highlights": [
@@ -1509,6 +1511,21 @@
         "highlight": "it is one of those non-game games I mentioned; a form of entertainment that really doesn't have a winner, or even a real conclusion. And because of its unrestrained pace of action",
         "color": "pink",
         "highlight_note": "Iwata está falando do Animal Crossing que seria lançado para Nintendo DS com conexão Wi-Fi. Ele se refere ao jogo como 'non-game' ou 'não-jogo' atribuindo características de um estilo de jogo onde não há um vencedor ou uma real conclusão. Ele também comenta sobre o 'ritmo' de ação do jogo (o 'pace') não possuir restrições, algo como o mundo aberto."
+      }
+    ]
+  },
+  "https://bluelabyrinths.com/2020/03/22/how-the-wilderness-calls-a-critique-of-red-dead-redemption-2/": {
+    "date": "2026-01-05",
+    "title": "How the Wilderness Calls: A Critique of Red Dead Redemption 2 | Blue Labyrinths",
+    "thumbnail": "",
+    "tags": [],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "highlight": "Romantic yearning for adventure is like a callback to what has been temporarily lost.",
+        "color": "yellow",
+        "highlight_note": ""
       }
     ]
   }
