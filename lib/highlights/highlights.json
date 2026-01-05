@@ -1526,6 +1526,11 @@
         "highlight": "Romantic yearning for adventure is like a callback to what has been temporarily lost.",
         "color": "yellow",
         "highlight_note": ""
+      },
+      {
+        "highlight": "The slow pace of the game contributes to a deep immersion, because the next destination can be a ride of half an hour away.",
+        "color": "yellow",
+        "highlight_note": ""
       }
     ]
   }
