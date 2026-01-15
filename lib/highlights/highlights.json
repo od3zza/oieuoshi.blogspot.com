@@ -1559,5 +1559,24 @@
         "highlight_note": ""
       }
     ]
+  },
+  "https://www.pi.fyi/rec/cmkcuhywx04rbob41mqvebf5v": {
+    "date": "2026-01-15",
+    "title": "Rec | CYBERPUNK 2077 (2020)",
+    "thumbnail": "",
+    "tags": [
+      "cyberpunk 2077",
+      "quote",
+      "citação"
+    ],
+    "summary": "",
+    "page_comment": "",
+    "highlights": [
+      {
+        "highlight": "Not a single thing in this world isn't in the process of becoming something else. Likewise you. Never look back. If you gotta kill, kill. If you gotta burn it all to the ground, then let it burn.",
+        "color": "pink",
+        "highlight_note": ""
+      }
+    ]
   }
 }
