@@ -1547,6 +1547,11 @@
         "highlight": "When you return to the gang camp, the characters will encourage you to sit by the fire and chat, or they will approach you to tell you a rumor, anecdote, or make a request. They will invite you to sit by the fire, eat a bowl of stew, or simply rest. Sometimes your companions will be celebrating and the progression of the game will stop, blocking certain missions, so then you too stop.",
         "color": "yellow",
         "highlight_note": ""
+      },
+      {
+        "highlight": "The function of the camp as a place of meditation, relaxation and contemplation is more than obvious when we realize that we cannot run within the area, making it almost impossible not to stop and listen to the conversations of the gang members.",
+        "color": "yellow",
+        "highlight_note": ""
       }
     ]
   }
