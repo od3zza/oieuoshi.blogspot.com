@@ -1671,6 +1671,11 @@
         "highlight": "Rockstar’s latest has a well-reported sombre and elegiac tone. Its themes are of loss, loyalty and betrayal. It is a story that takes time to tell, and on behalf of the player, time to think. And what better way to think, than to walk?",
         "color": "yellow",
         "highlight_note": ""
+      },
+      {
+        "highlight": "there is only a very limited fast-travel system here. You are forced to spend time, quiet and alone, between the sporadic bursts of action and violence.",
+        "color": "yellow",
+        "highlight_note": ""
       }
     ]
   }
