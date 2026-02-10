@@ -1775,6 +1775,11 @@
         "highlight": "Escreva para pessoas, não para sistemas.",
         "color": "yellow",
         "highlight_note": ""
+      },
+      {
+        "highlight": "E se você tem um blog  e ainda insiste nele, derramando sua vida, moderadamente ou não, com regularidade ou aos solavancos, saiba: você está, sim, caminhando na contramão de uma estrada torta, pavimentada por big techs que tentam nos reduzir a métricas, perfis e padrões de consumo. Você decidiu não ser uma peça de uma sinistra fábrica de pesadelos.",
+        "color": "yellow",
+        "highlight_note": ""
       }
     ]
   }
