@@ -1760,6 +1760,11 @@
         "highlight": "Um blog não pede urgência, nem exige performance e nem pune se você passar uns dias na sua, sem publicar nada. Você escreve quando tem algo a dizer. Publica quando sente que está pronto. Pode errar, voltar, editar, apagar. Pode escrever um parágrafo ruim às três da manhã ou um texto longo numa tarde chuvosa.",
         "color": "yellow",
         "highlight_note": ""
+      },
+      {
+        "highlight": "As redes sociais nos ensinaram a nos cercar de iguais. Mesmas opiniões, mesmos repertórios, mesmas bolhas. A desgraça do algoritmo reforçando isso o tempo todo: quanto mais previsível você for, mais ele te entrega versões de você mesmo. \n\nMas o blog faz o contrário porque ele abre uma porta para desconhecidos. Pessoas que você nunca viu, de cidades que você não conhece, que hegam ali por caminhos improváveis.",
+        "color": "yellow",
+        "highlight_note": "Interessante como a ideia naturalmente se desdobra sobre o excesso de positividade."
       }
     ]
   }
