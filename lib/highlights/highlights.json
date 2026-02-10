@@ -1770,6 +1770,11 @@
         "highlight": "Considero de verdade como uma forma de arte cotidiana. Não precisa ser literário. Não precisa ser genial. Não precisa ser profundo o tempo todo. É um caderno público. Um arquivo vivo. Um laboratório. \n\nVocê testa ideias. Observa o mundo. Anota sensações. Guarda links. Compartilha músicas. Escreve sobre um dia ruim, uma conversa boa, um filme estranho, uma lembrança da infância.",
         "color": "yellow",
         "highlight_note": ""
+      },
+      {
+        "highlight": "Escreva para pessoas, não para sistemas.",
+        "color": "yellow",
+        "highlight_note": ""
       }
     ]
   }
