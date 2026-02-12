@@ -1800,6 +1800,11 @@
         "highlight": "há uma relação de “razão inversa” entre usar e possuir um objeto",
         "color": "yellow",
         "highlight_note": ""
+      },
+      {
+        "highlight": "Se utilizo refrigerador com o fim de refrigeração, trata-se de uma mediação prática: não se trata de um objeto, mas de um refrigerador. Nesta medida, não o possuo. […] Todo o objeto tem desta forma duas funções: uma que é a de ser utilizado, e a outra a de ser possuído. […] Estas duas funções acham-se na razão inversa uma da outra. Em última instância, o objeto estritamente prático toma um estatuto social: é a máquina. Ao contrário, o objeto puro, privado de função ou abstraído de seu uso, toma um estatuto estritamente subjetivo: torna-se objeto de coleção. Cessa de ser tapete, mesa, bússola ou bibelô para se tornar “objeto”.",
+        "color": "yellow",
+        "highlight_note": ""
       }
     ]
   }
