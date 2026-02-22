@@ -1905,6 +1905,11 @@
         "highlight": "Writing in pairs builds connectivity and halves the amount of work you have to do.\n\nThis gets you in the mindset inherently of connecting your spaces rather than thinking of a dungeon as like thirty different themed rooms. Once you start doing this it’s hard to stop.",
         "color": "yellow",
         "highlight_note": ""
+      },
+      {
+        "highlight": "Even if you’re not running your dungeon like a horror game, thinking of setups and punch lines takes you a long way to having a narrative that’s more conducive to dungeon exploration play than story arcs based on events. Dungeon narratives work best as archaeological delves, or crime scene investigation. Your players are always asking “what happened here?”",
+        "color": "yellow",
+        "highlight_note": ""
       }
     ]
   }
